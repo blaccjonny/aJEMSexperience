@@ -1,0 +1,45 @@
+body {
+    background-image: url("images/bigahhteef.jpg");
+    background-position: 50% 50%;
+    background-repeat: repeat;
+  }
+
+header{
+    color:whitesmoke;
+    text-align: center;
+    text-shadow: darkred 1px 1px 1px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 70px;
+    padding-top: 100px;
+}  
+
+section{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: lighter;
+    text-align: center;
+    text-shadow: darkred 1px 1px 1px;
+    margin-top: 300px;
+   
+}
+
+p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: lighter;
+    text-align: center;
+    text-shadow: darkred 1px 1px 1px;
+}
+
+var{
+    color:whitesmoke;
+    text-align: center;
+    text-shadow: darkred 1px 1px 1px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 30px;
+    padding-top: 100px;   
+}
